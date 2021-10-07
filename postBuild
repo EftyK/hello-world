@@ -1,0 +1,5 @@
+wget https://osf.io/y567p/download -O dummy_model.hdf5
+
+wget https://osf.io/wmkrh/download -O test_data.zip
+
+unzip -o "test_data.zip" -d "test_data"

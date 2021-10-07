@@ -24,7 +24,6 @@ import random
 import argparse
 import logging
 import json
-import cv2
 import datetime
 
 from sklearn.metrics import f1_score
